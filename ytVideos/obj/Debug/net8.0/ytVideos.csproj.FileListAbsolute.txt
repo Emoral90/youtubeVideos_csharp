@@ -1,0 +1,15 @@
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\bin\Debug\net8.0\ytVideos.exe
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\bin\Debug\net8.0\ytVideos.deps.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\bin\Debug\net8.0\ytVideos.runtimeconfig.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\bin\Debug\net8.0\ytVideos.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\bin\Debug\net8.0\ytVideos.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.AssemblyInfoInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.AssemblyInfo.cs
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.csproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.sourcelink.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\refint\ytVideos.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ytVideos.genruntimeconfig.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\youtubeVideos_csharp\ytVideos\obj\Debug\net8.0\ref\ytVideos.dll
